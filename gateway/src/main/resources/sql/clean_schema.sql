@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS schema_version, translation_direction, word_form, word, customer, schedule, lesson, lesson_word_map CASCADE;
